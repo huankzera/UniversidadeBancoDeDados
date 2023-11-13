@@ -162,7 +162,7 @@ $$
 DELIMITER ;
 
 
-INSERT INTO Aula10.aluno (ra, nome, sobrenome) VALUES ('236058','Teruo', 'Yamassaka');
-INSERT INTO Aula10.aluno (ra, nome, sobrenome) VALUES ('236057','Yasmin', 'Braz');
-INSERT INTO Aula10.aluno (ra, nome, sobrenome) VALUES ('236056','William', 'Santos');
-INSERT INTO Aula10.aluno (ra, nome, sobrenome) VALUES ('236055','Juliana', 'Ferreira');
+INSERT INTO Aula10.aluno (ra, nome, sobrenome) VALUES ('256259','Isadora', 'Pinto');
+INSERT INTO Aula10.aluno (ra, nome, sobrenome) VALUES ('256267','Cassio', 'Ramos');
+INSERT INTO Aula10.aluno (ra, nome, sobrenome) VALUES ('286926','Roger', 'Guedes');
+INSERT INTO Aula10.aluno (ra, nome, sobrenome) VALUES ('296457','Yuri', 'Alberto');
